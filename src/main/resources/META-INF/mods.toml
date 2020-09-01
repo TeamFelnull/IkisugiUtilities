@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[33,)" 
+issueTrackerURL="https://github.com/TeamFelnull/IkisugiUtilities/issues"
+license="MIT License"
+[[mods]]
+modId="ikisugiutilities"
+version="${file.jarVersion}" 
+displayName="Ikisugi Utilities"
+updateJSONURL="https://raw.githubusercontent.com/TeamFelnull/IkisugiUtilities/master/version_check.json" 
+displayURL="https://github.com/TeamFelnull/IkisugiUtilities" 
+credits="TeamFelNull"
+authors="SIKI MASAO" 
+description="Thank you for downloading!\nThis mod is The Ikisugi MOD."
+
+[[dependencies.ikisugiutilities]]
+    modId="otyacraftengine"
+    mandatory=true
+    versionRange="[1.11,)"
+    ordering="NONE"
+    side="BOTH"

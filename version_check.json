@@ -1,0 +1,10 @@
+{
+  "homepage": "https://github.com/TeamFelnull/IkisugiUtilities",
+  "1.16.2": {
+    "1.0": "-The Frist release"
+  },
+  "promos": {
+    "1.16.2-latest": "1.0",
+    "1.16.2-recommended": "1.0"
+  }
+}
